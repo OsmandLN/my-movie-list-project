@@ -1,4 +1,4 @@
-# movie list
+# Movie list
 This is a simple web application for movie lovers
 
 ## Features
@@ -11,6 +11,6 @@ This is a simple web application for movie lovers
 Type the title for the movie you would like to find in the search form
 
 ### Favorote list
-In the index page, add the movie into your favorite list by click the `+` button
-Favorite movies can be check in the `favorite.html` 
-Click the `X` button if you want to remove certain movie from the favorite list
+- In the index page, add the movie into your favorite list by click the `+` button
+- Favorite movies can be check in the `favorite.html` 
+- Click the `X` button if you want to remove certain movie from the favorite list
